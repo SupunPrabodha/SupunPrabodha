@@ -114,6 +114,7 @@ I enjoy blending creativity with technology, whether through coding, designing i
 </p>
 -->
 ## 🏆 GitHub Trophies
+  
 ![](https://github-profile-trophy.vercel.app/?username=SupunPrabodha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
