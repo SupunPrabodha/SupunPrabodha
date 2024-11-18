@@ -58,10 +58,10 @@ Welcome to my GitHub profile! I’m a passionate tech enthusiast who loves explo
   <a href="https://www.linkedin.com/in/supun-liyanage-6226b1248" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://[www.instagram.com/your-instagram-profile](https://www.instagram.com/supun/profilecard/?igsh=aWFkMnV0dmNvbnlw)" target="_blank">
+  <a href="https://www.instagram.com/supun/profilecard/?igsh=aWFkMnV0dmNvbnlw" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://www.facebook.com/your-facebook-profile](https://www.facebook.com/share/EtXhULxxHnoousnT/)](https://www.facebook.com/profile.php?id=100078227186023&mibextid=ZbWKwL)" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=100078227186023&mibextid=ZbWKwL" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="https://wa.me/711911015" target="_blank">
