@@ -109,14 +109,16 @@ I enjoy blending creativity with technology, whether through coding, designing i
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SupunPrabodha&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupunPrabodha&layout=compact&theme=radical" alt="Top Languages" width="400">
+</p>
+
 <!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SupunPrabodha&theme=dark&hide_border=false" alt="Streaks" width="400">
 </p>
 -->
 ## 🏆 GitHub Trophies
-  
-![](https://github-profile-trophy.vercel.app/?username=SupunPrabodha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+<p align="center"> 
+<img src="https://github-profile-trophy.vercel.app/?username=SupunPrabodha&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="400">
+</p>
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=SupunPrabodha&limit=5&theme=dark&combine_all_yearly_contributions=true)
