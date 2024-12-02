@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 
 # Hi, I’m Supun Prabodha! 👋  
 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
 Welcome to my GitHub profile! I’m a passionate tech enthusiast who loves exploring new technologies, solving problems, and building impactful solutions. 🚀  
 
 ---
