@@ -19,6 +19,12 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b7611wf79qly8p72n85htatikdog8aax4z6ufixpwyfbp&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding GIF" width="300">
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 # Hi, I’m Supun Prabodha! 👋  
 
 Welcome to my GitHub profile! I’m a passionate tech enthusiast who loves exploring new technologies, solving problems, and building impactful solutions. 🚀  
