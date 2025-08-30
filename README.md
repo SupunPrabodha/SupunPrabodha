@@ -60,7 +60,7 @@ Welcome to my GitHub profile! I’m a passionate tech enthusiast who loves explo
 
 ## 📫 How to reach me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/supun-liyanage-6226b1248" target="_blank">
+  <a href="https://www.linkedin.com/in/supun-prabodha-liyanage/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/supun/profilecard/?igsh=aWFkMnV0dmNvbnlw" target="_blank">
