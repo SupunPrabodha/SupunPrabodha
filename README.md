@@ -143,7 +143,7 @@ I enjoy blending creativity with technology, whether through coding, designing i
 <p align="center"> 
 <img src="https://visitcount.itsvg.in/api?id=SupunPrabodha&icon=0&color=0" alt="Views">
 </p>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=AnjalikaTSG&color=blueviolet" alt="Gihani" /> 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=SupunPrabodha&color=blueviolet" alt="Views" /> 
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
