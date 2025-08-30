@@ -140,10 +140,7 @@ I enjoy blending creativity with technology, whether through coding, designing i
 
 ---
 
-[<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SupunPrabodha&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Profile Views">
-</p>](https://visitcount.itsvg.in/api?id=SupunPrabodha&label=Profile%20Views&color=12&icon=5&pretty=true
-)
+<!-- <p align="center"> <img src="https://visitcount.itsvg.in/api?id=SupunPrabodha&icon=0&color=0" alt="Views"> </p> -->
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=SupunPrabodha&color=blueviolet" alt="Views" /> 
