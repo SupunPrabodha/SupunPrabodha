@@ -1,148 +1,159 @@
-## Hi there 👋
-
-<!--
-**SupunPrabodha/SupunPrabodha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center">
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=790b7611wf79qly8p72n85htatikdog8aax4z6ufixpwyfbp&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding GIF" width="300">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Supun%20Prabodha&fontSize=44&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Mobile%20(Kotlin)%20%7C%20Cloud%20Native&descAlignY=55&descSize=16" alt="Supun Prabodha" />
 </p>
 
-# Hi, I’m Supun Prabodha! 👋  
-
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+(MERN)+%26+UI%2FUX;Full-Stack+Intern+%40+Ceylon+Electricity+Board+(CEB);Android+Apps+with+Kotlin+(Android+Studio);Spring+Boot+Microservices+%7C+Docker+%7C+Kubernetes;3D+Web+Experiences+with+Three.js+%26+Framer+Motion;Open+to+Freelance+%26+Collaboration" alt="Typing Animation" />
 </p>
 
-Welcome to my GitHub profile! I’m a passionate tech enthusiast who loves exploring new technologies, solving problems, and building impactful solutions. 🚀  
-
----
-
-## 🔭 I’m currently working on ...
-- Developing **mobile applications** and **games** using cutting-edge tools.  
-- Building innovative projects using **HTML**, **CSS**, **JavaScript**, **PHP**, **Java**, and **Python**.  
-- Strengthening my expertise in **database management** and tools like **MySQL Workbench** and **XAMPP**.  
-
----
-
-## 🌱 I’m currently learning ...
-- Advanced frameworks for **mobile and game development**.  
-- Exploring **UI/UX design** tools like **Figma** to enhance user experience.  
-- Utilizing development environments like **Android Studio** for mobile applications.  
-
----
-
-## 👯 I’m looking to collaborate on ...
-- Open-source projects related to **web, mobile, and game development**.  
-- Real-world applications where I can apply my skills in **programming**, **design**, and **application development**.  
-
----
-
-## 💬 Ask me about ...
-- Programming with **C**, **C++**, **Python**, and **Java**.  
-- Web development with **HTML**, **CSS**, **JavaScript**, **PHP**, and databases like **MySQL**.  
-- Mobile application and game development using **Android Studio**.  
-- UI/UX design and prototyping with **Figma**.  
-
----
-
-## 📫 How to reach me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/supun-prabodha-liyanage/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://supunprabodhaportfolio.netlify.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfolio" />
   </a>
-  <a href="https://www.instagram.com/supun/profilecard/?igsh=aWFkMnV0dmNvbnlw" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://www.linkedin.com/in/supun-prabodha-liyanage/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100078227186023&mibextid=ZbWKwL" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  <a href="mailto:supunprabodha0915@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://wa.me/711911015" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  <a href="https://wa.me/94711911015" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
 ---
 
-## 😄 Pronouns:
-**He/Him**
+## About Me
+
+- 🎓 BSc (Hons) Information Technology (Software Engineering) @ SLIIT (2023-2027)
+- 📍 Galle, Sri Lanka
+- 🧩 Building full-stack web apps, Android apps, and clean UI/UX experiences
+- 📄 CV: https://supunprabodhaportfolio.netlify.app/cv.pdf
+- 💼 Open to freelance work (web apps, APIs, Android, UI/UX prototypes)
 
 ---
 
-## ⚡ Fun fact:
-I enjoy blending creativity with technology, whether through coding, designing in **Figma**, or developing engaging mobile games!
+## Experience
+
+- ⚡ **Ceylon Electricity Board (CEB)** — Full Stack Developer Intern (Completed)
+  - Contributed to full-stack development tasks across frontend and backend
+  - Worked with APIs and databases while following real-world development practices
+  - Strengthened collaboration, communication, and delivery in a professional team environment
 
 ---
 
-## 🛠️ Technologies & Tools
+## Freelancing
+
+- ✅ MERN websites & dashboards (React, Node.js, MongoDB)
+- ✅ REST API development (JWT auth, validation, Swagger/OpenAPI)
+- ✅ Android apps (Kotlin) + UI/UX prototypes (Figma)
+
+If you have a project idea, reach me via LinkedIn or email.
+
+---
+
+## Current Focus
+
+- **Web:** React + Vite, Tailwind CSS, interactive UI (incl. 3D)
+- **Backend:** Node.js/Express, MongoDB/MySQL, JWT auth, Swagger/OpenAPI
+- **Java:** Spring Boot microservices (Gateway/Eureka), RabbitMQ, PostgreSQL
+- **Quality:** Jest/Supertest, Vitest/React Testing Library, Postman
+- **DevOps (project-based):** Docker, Kubernetes (artifacts + deployments)
+
+---
+
+## Tech Stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP">
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJs">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github">
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio">
-  <img src="https://img.shields.io/badge/DevC++-2C2C2C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Dev-C++">
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" alt="Apache Tomcat">
-  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" alt="Lightroom">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs,framer,js,ts,nodejs,express,mongodb,mysql,java,spring,kotlin,postgres,rabbitmq,docker,kubernetes,aws,firebase,git,github,postman,figma,php,python,c,cpp&perline=13" alt="Tech Stack Icons" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## Featured Projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/SupunPrabodha/EcoTrack">
+        <img src="https://opengraph.githubassets.com/1/SupunPrabodha/EcoTrack" alt="EcoTrack" width="450" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/SupunPrabodha/Med_Link">
+        <img src="https://opengraph.githubassets.com/1/SupunPrabodha/Med_Link" alt="MediLink LK" width="450" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/SupunPrabodha/Portfolio_25">
+        <img src="https://opengraph.githubassets.com/1/SupunPrabodha/Portfolio_25" alt="3D Portfolio" width="450" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/SupunPrabodha/FitFlow.lk">
+        <img src="https://opengraph.githubassets.com/1/SupunPrabodha/FitFlow.lk" alt="FitFlow.lk" width="450" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+- 🌱 **EcoTrack** — Sustainability tracker with analytics + recommendations (JWT, Swagger, tests)
+  - Repo: https://github.com/SupunPrabodha/EcoTrack
+  - Live: https://eco-track-gamma.vercel.app/
+  - API Docs: https://ecotrack-8ad9.onrender.com/api/docs/
+
+- 🏥 **MediLink LK** — Microservices telemedicine/appointment platform skeleton (Spring Cloud, Eureka, Gateway, JWT/RBAC, RabbitMQ, PostgreSQL, Docker/K8s)
+  - Repo: https://github.com/SupunPrabodha/Med_Link
+
+- 🧊 **3D Portfolio Website** — React + Three.js (R3F) + Tailwind + Framer Motion + tsparticles + EmailJS
+  - Repo: https://github.com/SupunPrabodha/Portfolio_25
+  - Live: https://supunprabodhaportfolio.netlify.app/
+
+- 🏋️ **FitFlow.lk** — MERN gym management system (AI plans, JWT auth, inventory, chatbot)
+  - Repo: https://github.com/SupunPrabodha/FitFlow.lk
+
+- 🚌 **SeatReserve** — Online bus ticket reservation system (Java Servlets/JSP, Tomcat, MySQL)
+  - Repo: https://github.com/SupunPrabodha/SeatReserve
+
+- 💳 **WealthWave** — Kotlin Android personal finance tracker (budgets, backup/restore, notifications, dark theme)
+  - Repo: https://github.com/SupunPrabodha/WealthWave
+
+---
+
+## UI/UX & Mobile
+
+- 📱 **FitTrack** — Kotlin fitness tracking app (calories, sleep, steps, water, heart rate, stopwatch)
+  - Repo: https://github.com/SupunPrabodha/FitTrack
+
+- 🎨 **SFitMarket (Figma UI Prototype)** — UI/UX prototype for a fitness shopping app
+  - Repo: https://github.com/SupunPrabodha/SFitMarket_UI
+  - Prototype: https://www.figma.com/community/file/1505863818299019684
+
+---
+
+## GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SupunPrabodha&show_icons=true&theme=radical" alt="GitHub Stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupunPrabodha&layout=compact&theme=radical" alt="Top Languages" width="400">
-<br><img src="https://github-readme-streak-stats.herokuapp.com/?user=SupunPrabodha&theme=dark&hide_border=false" alt="Streaks" width="400">
-  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SupunPrabodha&theme=github" alt="GitHub Stats" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SupunPrabodha&theme=github" alt="Top Languages" height="165" />
 </p>
 
-
-
-## 🏆 GitHub Trophies
-
-<p align="center"> 
-<img src="https://github-profile-trophy.vercel.app/?username=SupunPrabodha&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub tropies">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SupunPrabodha&theme=github-compact&hide_border=true" alt="Activity Graph" />
 </p>
-  
-### 🔝 Top Contributed Repo
 
-<p align="center"> 
-<img src="https://github-contributor-stats.vercel.app/api?username=SupunPrabodha&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SupunPrabodha&theme=transparent&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 ---
 
-<!-- <p align="center"> <img src="https://visitcount.itsvg.in/api?id=SupunPrabodha&icon=0&color=0" alt="Views"> </p> -->
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=SupunPrabodha&color=blueviolet" alt="Views" /> 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SupunPrabodha&style=flat-square&color=blueviolet" alt="Profile Views" />
+</p>
