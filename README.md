@@ -153,8 +153,10 @@ If you have a project idea, reach me via LinkedIn or email.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SupunPrabodha&theme=transparent&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
-
----
+<p align="center">
+  <img src="https://camo.githubusercontent.com/f5905e619b9213ad0a767512dea554cd8547ff3d0926bf06f499ab85fea5de9f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6b69646861736961267468656d653d6461726b26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565
+---" alt="GitHub Streak" height="165" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="Contribution Snake" />
